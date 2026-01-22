@@ -44,7 +44,7 @@ The simulation provides a dual-view system to better understand the additive nat
 
 ## 📐 Maths
 
-The engine utilizes the **ExprTk** library to parse and sum classic series as:
+The engine utilizes the **ExprTk** library to parse the functions.
 
 ---
 
