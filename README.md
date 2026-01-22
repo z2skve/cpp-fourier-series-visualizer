@@ -42,6 +42,13 @@ The simulation provides a dual-view system to better understand the additive nat
 
 ---
 
+## 🎬 Usage Demo
+
+The following video demonstrates the real-time generation of harmonics and how the UI responds to a mathematical input.
+
+[![Watch the Fourier Simulation](https://raw.githubusercontent.com/z2skve/cpp-fourier-series-visualizer/main/pictures/square-wave.png)](https://raw.githubusercontent.com/z2skve/cpp-fourier-series-visualizer/main/pictures/fourier-video.mp4)
+---
+
 ## 📐 Maths
 
 The engine utilizes the **ExprTk** library to parse the functions.
