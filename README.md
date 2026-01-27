@@ -69,7 +69,7 @@ The engine utilizes the **ExprTk** library to parse the functions.
 
 1.  **Clone the repository:**
     ```bash
-    git clone git@github.com:z2skve/cpp-fourier-series-visualizer.git
+    git clone https://github.com/z2skve/cpp-fourier-series-visualizer.git
     cd cpp-fourier-series-visualizer
     ```
 
